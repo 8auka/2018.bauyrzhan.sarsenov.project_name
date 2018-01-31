@@ -1,0 +1,4 @@
+dependencies{
+    compile group: 'kz.greetgo.mvc', name: 'greetgo.mvc.security', version: '2.1.0'
+
+}
